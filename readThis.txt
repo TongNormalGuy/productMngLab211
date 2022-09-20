@@ -1,3 +1,4 @@
 am new bie and this is my first project.
-you may see eXtendMenu class is unusable.. yep it unusable.
+you may see eXtendMenu class is unusable... yep it unusable(i have a plan for it but... other project occur).
 all my code is guided and do by self.
+this code may not fresh as variable names and menu content(many other!).
